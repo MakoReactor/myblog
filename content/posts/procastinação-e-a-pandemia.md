@@ -38,6 +38,6 @@ Mas não podemos nos deixar enganar, não é porque é natural que podemos deixa
 - Por último, se for procrastinar faça isso conscientemente, não tente se enganar dizendo para si mesmo, só mais um click ou vídeo ou mais qualquer coisa. Faça isso propositadamente, diga a si mesmo, eu vou deixar de fazer o que eu preciso para ficar dando scroll no facebook por exemplo, assim você pode até não fazer o que tem que fazer hoje, mas vai ficar com isso na cabeça e talvez no outro dia você pense duas vezes (ou não) em procrastinar novamente.
 
 
-Tudo que escrevi acima é o que eu acho e o que eu tento fazer para procrastinar menos, para um conteúdo mais técnico embasado na ciência ouça esse episódio do Podcast [Naruhodo](https://open.spotify.com/episode/5igdyvdOn3z5BLehu31BwY?si=h64DHo0iRFqsMYExEbWH4w)
+Tudo que escrevi acima é o que eu acho e o que eu tento fazer para procrastinar menos, para um conteúdo mais técnico embasado na ciência ouça esse episódio do Podcast [Naruhodo #187 - Por que procrastinamos?](https://open.spotify.com/episode/5igdyvdOn3z5BLehu31BwY?si=h64DHo0iRFqsMYExEbWH4w)
 
 
