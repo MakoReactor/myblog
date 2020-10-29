@@ -40,10 +40,4 @@ Mas não podemos nos deixar enganar, não é porque é natural que podemos deixa
 
 Tudo que disse acima é o que eu acho e o que eu tento fazer para procrastinar menos, para um conteúdo mais técnico embasado na ciência ouça esse episódio do Podcast [Naruhodo](https://open.spotify.com/episode/5igdyvdOn3z5BLehu31BwY?si=h64DHo0iRFqsMYExEbWH4w)
 
-E para um formato em vídeo mais curto, também embasado na ciência assista o video abaixo.
-
-
-
-{{< youtube usBp9ApbCq0 >}}
-
 

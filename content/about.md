@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-10-28T10:13:08-03:00
-draft: true
+draft: false
 tags:
 - about
 ---
