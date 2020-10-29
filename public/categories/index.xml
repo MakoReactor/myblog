@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 07:53:44 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estilo de Vida</title>
+      <link>http://localhost:1313/categories/estilo-de-vida/</link>
+      <pubDate>Thu, 29 Oct 2020 07:53:44 -0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/estilo-de-vida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dicas Linux</title>
+      <link>http://localhost:1313/categories/dicas-linux/</link>
+      <pubDate>Wed, 28 Oct 2020 15:44:04 -0300</pubDate>
+      
+      <guid>http://localhost:1313/categories/dicas-linux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
