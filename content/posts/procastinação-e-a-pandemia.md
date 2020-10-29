@@ -3,7 +3,7 @@ title: "Procrastinação e a Pandemia"
 date: 2020-10-29T07:53:44-03:00
 draft: false
 categories: ["Estilo de Vida"]
-tags: ["procastinação", "pandemia", "estudos",]
+tags: ["procrastinação", "pandemia", "estudos",]
 ---
 
 Quando começou a pandemia de covid-19 aqui no Brasil todos aqui no trabalho tiveram que ficar em casa (férias adiantadas), então pensei: Agora que vou ter bastante tempo livre vou aprender alguma coisa, vou estudar, ler etc.
