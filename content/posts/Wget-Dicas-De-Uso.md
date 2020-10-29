@@ -1,7 +1,7 @@
 ---
 title: "Wget Dicas De Uso"
 date: 2020-10-28T15:44:04-03:00
-draft: false
+draft: true
 tags:
  - shell
  - bash
