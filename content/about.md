@@ -26,6 +26,7 @@ Cada assunto vai ter a(s) sua(s) categoria(s) e Tag(s) específicas, para ajudar
 - Programação
 - Python
 - Django
+- Flask
 - Shell Script
 - Free/Open/Libre Software
 - Noticias sobre tecnologia
