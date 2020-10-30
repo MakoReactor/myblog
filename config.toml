@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://silly-payne-12666a.netlify.app/"
 languageCode = "en-us"
 theme = "anatole"
 summarylength = 30
