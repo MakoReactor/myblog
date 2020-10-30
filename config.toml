@@ -28,12 +28,12 @@ images = ["images/profile.png"]
 
 ## Social links
 [[params.socialIcons]]
-icon = "fa-twitter"
+icon = "fas fa-twitter"
 title = "Twitter"
 url = "https://twitter.com/mako_reactor"
 
 [[params.socialIcons]]
-icon = "fa-envelope"
+icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:douglas.santosb@gmail.com"
 
