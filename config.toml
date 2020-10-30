@@ -28,7 +28,7 @@ images = ["images/profile.png"]
 
 ## Social links
 [[params.socialIcons]]
-icon = "fas fa-twitter"
+icon = "fab fa-twitter"
 title = "Twitter"
 url = "https://twitter.com/mako_reactor"
 
