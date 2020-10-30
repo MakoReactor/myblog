@@ -1,4 +1,4 @@
-baseURL = "http://dougcafe.ml"
+baseURL = "dougcafe.ml"
 languageCode = "en-us"
 theme = "anatole"
 summarylength = 30
