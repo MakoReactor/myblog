@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://dougscafe.netlify.app/posts/</link>
+    <link>http://dougcafe.ml/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 07:53:44 -0300</lastBuildDate><atom:link href="https://dougscafe.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2020 07:53:44 -0300</lastBuildDate><atom:link href="http://dougcafe.ml/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Procrastinação e a Pandemia</title>
-      <link>https://dougscafe.netlify.app/posts/procastina%C3%A7%C3%A3o-e-a-pandemia/</link>
+      <link>http://dougcafe.ml/posts/procastina%C3%A7%C3%A3o-e-a-pandemia/</link>
       <pubDate>Thu, 29 Oct 2020 07:53:44 -0300</pubDate>
       
-      <guid>https://dougscafe.netlify.app/posts/procastina%C3%A7%C3%A3o-e-a-pandemia/</guid>
+      <guid>http://dougcafe.ml/posts/procastina%C3%A7%C3%A3o-e-a-pandemia/</guid>
       <description>Quando começou a pandemia de covid-19 aqui no Brasil todos aqui no trabalho tiveram que ficar em casa (férias adiantadas), então pensei: Agora que vou ter bastante tempo livre vou aprender alguma coisa, vou estudar, ler etc.</description>
     </item>
     

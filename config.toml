@@ -1,4 +1,4 @@
-baseURL = "https://dougscafe.netlify.app/"
+baseURL = "http://dougcafe.ml"
 languageCode = "en-us"
 theme = "anatole"
 summarylength = 30
