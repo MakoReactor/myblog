@@ -6,13 +6,31 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 07:53:44 -0300</lastBuildDate><atom:link href="https://dougscafe.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Nov 2020 14:50:53 -0300</lastBuildDate><atom:link href="https://dougscafe.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Informatiquez</title>
+      <link>https://dougscafe.netlify.app/categories/informatiquez/</link>
+      <pubDate>Fri, 06 Nov 2020 14:50:53 -0300</pubDate>
+      
+      <guid>https://dougscafe.netlify.app/categories/informatiquez/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Estilo de Vida</title>
       <link>https://dougscafe.netlify.app/categories/estilo-de-vida/</link>
       <pubDate>Thu, 29 Oct 2020 07:53:44 -0300</pubDate>
       
       <guid>https://dougscafe.netlify.app/categories/estilo-de-vida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dicas Linux</title>
+      <link>https://dougscafe.netlify.app/categories/dicas-linux/</link>
+      <pubDate>Wed, 28 Oct 2020 15:44:04 -0300</pubDate>
+      
+      <guid>https://dougscafe.netlify.app/categories/dicas-linux/</guid>
       <description></description>
     </item>
     

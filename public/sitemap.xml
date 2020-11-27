@@ -4,12 +4,47 @@
   
   <url>
     <loc>https://dougscafe.netlify.app/</loc>
-    <lastmod>2020-10-29T07:53:44-03:00</lastmod>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://dougscafe.netlify.app/categories/</loc>
-    <lastmod>2020-10-29T07:53:44-03:00</lastmod>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/tags/hacker/</loc>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/categories/informatiquez/</loc>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/tags/invas%C3%A3o/</loc>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/posts/invas%C3%A3o-aos-computadores-do-minist%C3%A9rio-da-sa%C3%BAde-e-governo-do-df/</loc>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/posts/</loc>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/tags/seguran%C3%A7a/</loc>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/tags/</loc>
+    <lastmod>2020-11-06T14:50:53-03:00</lastmod>
   </url>
   
   <url>
@@ -28,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://dougscafe.netlify.app/posts/</loc>
-    <lastmod>2020-10-29T07:53:44-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dougscafe.netlify.app/tags/procrastina%C3%A7%C3%A3o/</loc>
     <lastmod>2020-10-29T07:53:44-03:00</lastmod>
   </url>
@@ -43,8 +73,28 @@
   </url>
   
   <url>
-    <loc>https://dougscafe.netlify.app/tags/</loc>
-    <lastmod>2020-10-29T07:53:44-03:00</lastmod>
+    <loc>https://dougscafe.netlify.app/tags/bash/</loc>
+    <lastmod>2020-10-28T15:44:04-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/categories/dicas-linux/</loc>
+    <lastmod>2020-10-28T15:44:04-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/tags/linux/</loc>
+    <lastmod>2020-10-28T15:44:04-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/tags/shell/</loc>
+    <lastmod>2020-10-28T15:44:04-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dougscafe.netlify.app/posts/wget-dicas-de-uso/</loc>
+    <lastmod>2020-10-28T15:44:04-03:00</lastmod>
   </url>
   
   <url>

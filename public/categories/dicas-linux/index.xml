@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dicas Linux on </title>
-    <link>http://localhost:1313/categories/dicas-linux/</link>
+    <link>https://dougscafe.netlify.app/categories/dicas-linux/</link>
     <description>Recent content in Dicas Linux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 15:44:04 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/dicas-linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 15:44:04 -0300</lastBuildDate><atom:link href="https://dougscafe.netlify.app/categories/dicas-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wget Dicas De Uso</title>
-      <link>http://localhost:1313/posts/wget-dicas-de-uso/</link>
+      <link>https://dougscafe.netlify.app/posts/wget-dicas-de-uso/</link>
       <pubDate>Wed, 28 Oct 2020 15:44:04 -0300</pubDate>
       
-      <guid>http://localhost:1313/posts/wget-dicas-de-uso/</guid>
+      <guid>https://dougscafe.netlify.app/posts/wget-dicas-de-uso/</guid>
       <description>Instalar wget (Debian, Ubuntu, Linuxmint). Caso a sua distro não venha com o comando wget instalado procure na documentação ou em fóruns a maneira correta de instalar o wget na sua distro.</description>
     </item>
     

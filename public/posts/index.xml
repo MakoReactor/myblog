@@ -6,7 +6,16 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 07:53:44 -0300</lastBuildDate><atom:link href="https://dougscafe.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Nov 2020 14:50:53 -0300</lastBuildDate><atom:link href="https://dougscafe.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invasão Aos Computadores Do Ministério Da Saúde E Governo Do DF</title>
+      <link>https://dougscafe.netlify.app/posts/invas%C3%A3o-aos-computadores-do-minist%C3%A9rio-da-sa%C3%BAde-e-governo-do-df/</link>
+      <pubDate>Fri, 06 Nov 2020 14:50:53 -0300</pubDate>
+      
+      <guid>https://dougscafe.netlify.app/posts/invas%C3%A3o-aos-computadores-do-minist%C3%A9rio-da-sa%C3%BAde-e-governo-do-df/</guid>
+      <description>Em 5 de Novebro de 2020 foi noticiado, pela imprensa, um ataque hacker aos computadores do Distrito Federal, mas precisamente do Ministério da Saúde e do Goverdo do DF e prints de uma tela mostram o que seria a tela de uma destas estações de trabalho que foram &amp;ldquo;hakeadas&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Procrastinação e a Pandemia</title>
       <link>https://dougscafe.netlify.app/posts/procastina%C3%A7%C3%A3o-e-a-pandemia/</link>
@@ -14,6 +23,15 @@
       
       <guid>https://dougscafe.netlify.app/posts/procastina%C3%A7%C3%A3o-e-a-pandemia/</guid>
       <description>Quando começou a pandemia de covid-19 aqui no Brasil todos aqui no trabalho tiveram que ficar em casa (férias adiantadas), então pensei: Agora que vou ter bastante tempo livre vou aprender alguma coisa, vou estudar, ler etc.</description>
+    </item>
+    
+    <item>
+      <title>Wget Dicas De Uso</title>
+      <link>https://dougscafe.netlify.app/posts/wget-dicas-de-uso/</link>
+      <pubDate>Wed, 28 Oct 2020 15:44:04 -0300</pubDate>
+      
+      <guid>https://dougscafe.netlify.app/posts/wget-dicas-de-uso/</guid>
+      <description>Instalar wget (Debian, Ubuntu, Linuxmint). Caso a sua distro não venha com o comando wget instalado procure na documentação ou em fóruns a maneira correta de instalar o wget na sua distro.</description>
     </item>
     
   </channel>
