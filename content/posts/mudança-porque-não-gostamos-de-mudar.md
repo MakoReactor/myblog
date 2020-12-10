@@ -2,7 +2,8 @@
 title: "Mudança Porque Não Gostamos De Mudar"
 date: 2020-11-27T13:22:50-03:00
 draft: false
-category: Reflexão
+categories:
+- Reflexão
 tags: 
 - pensamentos, 
 - rascunhos da vida
