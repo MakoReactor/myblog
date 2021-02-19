@@ -1,7 +1,7 @@
 ---
 title: "Nem Sorte Ou Azar"
 date: 2021-02-19T15:35:31-03:00
-draft: true
+draft: false
 categories: 
 - Reflexão
 tags: 
